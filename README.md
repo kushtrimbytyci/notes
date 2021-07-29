@@ -4,7 +4,7 @@ This project is build with React in frontend and Node in backend
 
 ## Available Scripts
 
-In the root directory, you can run:
+In the root directory(notes), you can run:
 
 ### `npm run prod`
 
